@@ -35,9 +35,7 @@ const listProducts = document.querySelector(".reviews");
           newReview.insertAdjacentElement("beforeend", reviewText);
 
 
-        //   newReview.innerHTML = `
-        //     <span>${element}</span>
-        //     ${deleteReviewBtn(element, reviewSet, product).outerHTML}`;
+       
 
           //кнопка удаления
           newReview.insertAdjacentElement(
